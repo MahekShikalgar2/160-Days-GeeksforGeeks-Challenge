@@ -26,4 +26,5 @@ Visit 3 (the first neighbor of 2) → Output: 0, 1, 2, 3
 Backtrack to 2 and visit 4 → Final Output: 0, 1, 2, 3, 4
 Constraints:
 1 ≤ V = adj.size() ≤ 104
+
 1 ≤ adj[i][j] ≤ 104
